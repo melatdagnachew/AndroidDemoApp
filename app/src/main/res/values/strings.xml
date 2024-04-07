@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="runs_in_the_background_n_to_save_battery">Runs in the background \n to save battery</string>
+</resources>
